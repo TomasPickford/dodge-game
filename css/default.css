@@ -1,0 +1,14 @@
+﻿body {
+    touch-action: none;
+    background-color: #1e1c1e;
+    margin: 0;
+}
+
+canvas {
+        /*border: thin inset #aaaaaa;*/
+        padding: 0;
+        margin: auto;
+        display: block;
+        height: 100vh; /* For 100% screen height */
+
+}
